@@ -1,4 +1,4 @@
-# Print Multiples: Instructions
+# Print Multiples
 
 Write a program that prints the numbers from 1 to 100.
 
@@ -12,11 +12,11 @@ For the 'X' in rules 1 and 2, print the number, not 'X', so if the number was 42
 
 ## Expected Results
 
-Run your program and check that it is working correctly. There are no unit tests to check your work for you.
+Run your program and check that it is working correctly.
 
 Here's what the first ten lines of output should look like:
 
-```
+```txt
 1
 2
 3 is a multiple of 3
@@ -28,6 +28,8 @@ Here's what the first ten lines of output should look like:
 9 is a multiple of 3
 10 is a multiple of 5
 ```
+
+You can test your code with `python3 test.py`
 
 ## Extension
 
